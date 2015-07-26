@@ -1,0 +1,529 @@
+,gender,district,sum(aadhaar_generated)
+0,F,Ahmadnagar,45.0
+1,F,Ahmed Nagar,0.0
+2,F,Ahmedabad,1.0
+3,F,Ajmer,27.0
+4,F,Akola,5.0
+5,F,Alirajpur,71.0
+6,F,Allahabad,15.0
+7,F,Alwar,14.0
+8,F,Ambala,7.0
+9,F,Amravati,0.0
+10,F,Amritsar,30.0
+11,F,Anuppur,101.0
+12,F,Ashok Nagar,1.0
+13,F,Aurangabad,19.0
+14,F,Balaghat,287.0
+15,F,Bangalore,433.0
+16,F,Bangalore Rural,9.0
+17,F,Banka,0.0
+18,F,Banswara,28.0
+19,F,Baran,5.0
+20,F,Barwani,34.0
+21,F,Bathinda,43.0
+22,F,Beed,25.0
+23,F,Belgaum,59.0
+24,F,Bellary,65.0
+25,F,Betul,41.0
+26,F,Bhagalpur,0.0
+27,F,Bhandara,4.0
+28,F,Bharatpur,94.0
+29,F,Bhilwara,50.0
+30,F,Bhind,91.0
+31,F,Bhiwani,54.0
+32,F,Bhopal,15.0
+33,F,Bidar,30.0
+34,F,Bijapur,1.0
+35,F,Bikaner,5.0
+36,F,Bokaro,12.0
+37,F,Buldhana,95.0
+38,F,Bundi,2.0
+39,F,Burhanpur,29.0
+40,F,Central Delhi,5.0
+41,F,Chamrajanagar,6.0
+42,F,Chandigarh,1.0
+43,F,Chatra,114.0
+44,F,Chennai,2.0
+45,F,Chhatarpur,153.0
+46,F,Chhindwara,126.0
+47,F,Chickmagalur,1.0
+48,F,Chikkaballapur,1.0
+49,F,Chitradurga,68.0
+50,F,Chittorgarh,5.0
+51,F,Cuddalore,2.0
+52,F,Dakshina Kannada,2.0
+53,F,Damoh,280.0
+54,F,Datia,18.0
+55,F,Dausa,3.0
+56,F,Deoghar,31.0
+57,F,Dewas,14.0
+58,F,Dhalai,20.0
+59,F,Dhanbad,37.0
+60,F,Dhar,316.0
+61,F,Dharwad,1.0
+62,F,Dholpur,9.0
+63,F,Dhule,41.0
+64,F,Dindori,22.0
+65,F,Dumka,23.0
+66,F,Dungarpur,6.0
+67,F,East Godavari,1.0
+68,F,East Singhbhum,45.0
+69,F,Ernakulam,1.0
+70,F,Faridabad,4.0
+71,F,Fatehabad,19.0
+72,F,Fazilka,11.0
+73,F,Ferozepur,41.0
+74,F,Gadchiroli,28.0
+75,F,Ganganagar,40.0
+76,F,Garhwa,5.0
+77,F,Gaya,1.0
+78,F,Ghaziabad,6.0
+79,F,Ghazipur,1.0
+80,F,Giridih,4.0
+81,F,Godda,145.0
+82,F,Gonda,1.0
+83,F,Gondiya,2.0
+84,F,Gulbarga,1.0
+85,F,Gumla,18.0
+86,F,Guna,74.0
+87,F,Gurdaspur,59.0
+88,F,Gurgaon,23.0
+89,F,Gwalior,60.0
+90,F,Hamirpur,1.0
+91,F,Hanumangarh,9.0
+92,F,Harda,1.0
+93,F,Hassan,23.0
+94,F,Haveri,51.0
+95,F,Hazaribagh,10.0
+96,F,Hingoli,4.0
+97,F,Hisar,231.0
+98,F,Hooghly,4.0
+99,F,Hoshangabad,0.0
+100,F,Hoshiarpur,119.0
+101,F,Hyderabad,13.0
+102,F,Indore,136.0
+103,F,Jabalpur,11.0
+104,F,Jaipur,56.0
+105,F,Jaisalmer,1.0
+106,F,Jalandhar,9.0
+107,F,Jalaun,2.0
+108,F,Jalgaon,83.0
+109,F,Jalna,35.0
+110,F,Jamtara,19.0
+111,F,Jamui,2.0
+112,F,Jhabua,93.0
+113,F,Jhajjar,170.0
+114,F,Jhalawar,3.0
+115,F,Jhunjhunun,8.0
+116,F,Jind,58.0
+117,F,Jodhpur,1.0
+118,F,K.v. Rangareddy,5.0
+119,F,Kaithal,4.0
+120,F,Kancheepuram,1.0
+121,F,Kangra,0.0
+122,F,Kanniyakumari,2.0
+123,F,Kapurthala,10.0
+124,F,Karaikal,1.0
+125,F,Karauli,20.0
+126,F,Karnal,75.0
+127,F,Katihar,1.0
+128,F,Katni,22.0
+129,F,Kaushambi,1.0
+130,F,Kendujhar,2.0
+131,F,Khandwa,13.0
+132,F,Khargone,259.0
+133,F,Khowai,2.0
+134,F,Khunti,9.0
+135,F,Koderma,133.0
+136,F,Kolar,93.0
+137,F,Kolhapur,79.0
+138,F,Kolkata,1.0
+139,F,Koppal,10.0
+140,F,Kota,15.0
+141,F,Krishnagiri,1.0
+142,F,Kurukshetra,37.0
+143,F,Latehar,23.0
+144,F,Latur,22.0
+145,F,Lohardaga,49.0
+146,F,Ludhiana,36.0
+147,F,Madhubani,2.0
+148,F,Mahendragarh,87.0
+149,F,Mandla,41.0
+150,F,Mandsaur,5.0
+151,F,Mandya,4.0
+152,F,Mansa,71.0
+153,F,Moga,29.0
+154,F,Morena,89.0
+155,F,Mumbai,62.0
+156,F,Muzaffarpur,1.0
+157,F,Nagaur,0.0
+158,F,Nagpur,6.0
+159,F,Nalgonda,9.0
+160,F,Nanded,9.0
+161,F,Nandurbar,0.0
+162,F,Narsinghpur,31.0
+163,F,Nashik,104.0
+164,F,Nawada,1.0
+165,F,New Delhi,1.0
+166,F,North Delhi,2.0
+167,F,North East Delhi,1.0
+168,F,North Tripura,4.0
+169,F,North West Delhi,12.0
+170,F,Osmanabad,5.0
+171,F,Others,4.0
+172,F,Pakur,223.0
+173,F,Palamu,7.0
+174,F,Pali,1.0
+175,F,Panchkula,1.0
+176,F,Panipat,222.0
+177,F,Panna,178.0
+178,F,Parbhani,2.0
+179,F,Pathankot,13.0
+180,F,Patna,1.0
+181,F,Puducherry,0.0
+182,F,Pune,108.0
+183,F,Raichur,11.0
+184,F,Raigarh,13.0
+185,F,Raisen,59.0
+186,F,Rajsamand,22.0
+187,F,Ramanagar,66.0
+188,F,Ramgarh,10.0
+189,F,Ranchi,47.0
+190,F,Ratlam,20.0
+191,F,Ratnagiri,1.0
+192,F,Rewa,437.0
+193,F,Rewari,16.0
+194,F,Rohtak,67.0
+195,F,SAS Nagar (Mohali),10.0
+196,F,Sagar,220.0
+197,F,Sahebganj,114.0
+198,F,Salem,1.0
+199,F,Sangli,398.0
+200,F,Sangrur,34.0
+201,F,Satara,121.0
+202,F,Satna,244.0
+203,F,Sawai Madhopur,11.0
+204,F,Sehore,23.0
+205,F,Seoni,12.0
+206,F,Seraikela-Kharsawan,45.0
+207,F,Shahdol,155.0
+208,F,Shaheed Bhagat Singh Nagar,19.0
+209,F,Shajapur,5.0
+210,F,Sheikhpura,1.0
+211,F,Sheopur,4.0
+212,F,Shimoga,83.0
+213,F,Shivpuri,26.0
+214,F,Sidhi,105.0
+215,F,Sikar,45.0
+216,F,Simdega,3.0
+217,F,Sindhudurg,1.0
+218,F,Singrauli,93.0
+219,F,Sirsa,165.0
+220,F,Solapur,45.0
+221,F,Sonbhadra,1.0
+222,F,Sonipat,13.0
+223,F,South Delhi,6.0
+224,F,South West Delhi,6.0
+225,F,Sri Muktsar Sahib,28.0
+226,F,Sundergarh,1.0
+227,F,Tarn Taran,106.0
+228,F,Tehri Garhwal,1.0
+229,F,Thane,92.0
+230,F,Tikamgarh,49.0
+231,F,Tiruvallur,1.0
+232,F,Tonk,10.0
+233,F,Tumkur,2.0
+234,F,Udaipur,3.0
+235,F,Ujjain,63.0
+236,F,Umaria,83.0
+237,F,Unakoti,1.0
+238,F,Vidisha,43.0
+239,F,Viluppuram,6.0
+240,F,Wardha,1.0
+241,F,Washim,22.0
+242,F,West Delhi,4.0
+243,F,West Singhbhum,221.0
+244,F,West Tripura,15.0
+245,F,Yadgir,3.0
+246,F,Yamuna Nagar,130.0
+247,F,Yavatmal,38.0
+248,M,Ahmadnagar,63.0
+249,M,Ahmed Nagar,0.0
+250,M,Ajmer,60.0
+251,M,Akola,5.0
+252,M,Alirajpur,100.0
+253,M,Allahabad,17.0
+254,M,Almora,1.0
+255,M,Alwar,22.0
+256,M,Ambala,8.0
+257,M,Ambedkar Nagar,2.0
+258,M,Amravati,1.0
+259,M,Amritsar,26.0
+260,M,Anuppur,167.0
+261,M,Ashok Nagar,4.0
+262,M,Auraiya,1.0
+263,M,Aurangabad,41.0
+264,M,Bagalkot,1.0
+265,M,Balaghat,368.0
+266,M,Ballia,1.0
+267,M,Balrampur,1.0
+268,M,Bangalore,510.0
+269,M,Bangalore Rural,7.0
+270,M,Banka,3.0
+271,M,Banswara,113.0
+272,M,Baran,5.0
+273,M,Barddhaman,2.0
+274,M,Bargarh,1.0
+275,M,Barwani,47.0
+276,M,Basti,1.0
+277,M,Bathinda,51.0
+278,M,Beed,37.0
+279,M,Belgaum,55.0
+280,M,Bellary,50.0
+281,M,Betul,88.0
+282,M,Bhadrak,1.0
+283,M,Bhagalpur,1.0
+284,M,Bhandara,3.0
+285,M,Bharatpur,115.0
+286,M,Bharuch,1.0
+287,M,Bhilwara,192.0
+288,M,Bhind,181.0
+289,M,Bhiwani,59.0
+290,M,Bhojpur,1.0
+291,M,Bhopal,31.0
+292,M,Bidar,20.0
+293,M,Bikaner,5.0
+294,M,Bokaro,33.0
+295,M,Bongaigaon,1.0
+296,M,Budaun,1.0
+297,M,Buldhana,100.0
+298,M,Bundi,4.0
+299,M,Burhanpur,27.0
+300,M,Central Delhi,3.0
+301,M,Chamrajanagar,8.0
+302,M,Chandigarh,4.0
+303,M,Chatra,170.0
+304,M,Chennai,1.0
+305,M,Chhatarpur,416.0
+306,M,Chhindwara,169.0
+307,M,Chickmagalur,20.0
+308,M,Chitradurga,62.0
+309,M,Chittorgarh,17.0
+310,M,Churu,1.0
+311,M,Cuddalore,4.0
+312,M,Dakshina Kannada,12.0
+313,M,Damoh,273.0
+314,M,Darbhanga,2.0
+315,M,Datia,40.0
+316,M,Dausa,22.0
+317,M,Davangere,2.0
+318,M,Deoghar,15.0
+319,M,Dewas,11.0
+320,M,Dhalai,17.0
+321,M,Dhanbad,68.0
+322,M,Dhar,342.0
+323,M,Dharmapuri,1.0
+324,M,Dharwad,1.0
+325,M,Dholpur,32.0
+326,M,Dhule,56.0
+327,M,Dindori,58.0
+328,M,Dumka,31.0
+329,M,Dungarpur,158.0
+330,M,East Champaran,2.0
+331,M,East Delhi,1.0
+332,M,East Godavari,1.0
+333,M,East Singhbhum,24.0
+334,M,Faridabad,1.0
+335,M,Faridkot,3.0
+336,M,Fatehabad,22.0
+337,M,Fazilka,6.0
+338,M,Ferozepur,19.0
+339,M,Gadchiroli,32.0
+340,M,Ganganagar,58.0
+341,M,Garhwa,11.0
+342,M,Gautam Buddha Nagar,3.0
+343,M,Ghaziabad,9.0
+344,M,Giridih,5.0
+345,M,Godda,162.0
+346,M,Gomati,1.0
+347,M,Gopalganj,1.0
+348,M,Gorakhpur,1.0
+349,M,Gulbarga,13.0
+350,M,Gumla,30.0
+351,M,Guna,193.0
+352,M,Gurdaspur,75.0
+353,M,Gurgaon,23.0
+354,M,Gwalior,76.0
+355,M,Hamirpur,1.0
+356,M,Hanumangarh,6.0
+357,M,Harda,6.0
+358,M,Hassan,22.0
+359,M,Haveri,31.0
+360,M,Hazaribagh,15.0
+361,M,Hingoli,2.0
+362,M,Hisar,246.0
+363,M,Hoshangabad,0.0
+364,M,Hoshiarpur,136.0
+365,M,Howrah,1.0
+366,M,Hyderabad,18.0
+367,M,Indore,175.0
+368,M,Jabalpur,29.0
+369,M,Jaipur,191.0
+370,M,Jaisalmer,0.0
+371,M,Jajapur,1.0
+372,M,Jalandhar,8.0
+373,M,Jalaun,1.0
+374,M,Jalgaon,86.0
+375,M,Jalna,44.0
+376,M,Jamtara,16.0
+377,M,Jamui,3.0
+378,M,Jaunpur,1.0
+379,M,Jhabua,137.0
+380,M,Jhajjar,182.0
+381,M,Jhalawar,32.0
+382,M,Jhansi,3.0
+383,M,Jhunjhunun,14.0
+384,M,Jind,75.0
+385,M,Jodhpur,5.0
+386,M,K.v. Rangareddy,8.0
+387,M,Kaithal,1.0
+388,M,Kangra,6.0
+389,M,Kannauj,1.0
+390,M,Kanniyakumari,1.0
+391,M,Kanpur Nagar,1.0
+392,M,Kapurthala,9.0
+393,M,Karaikal,1.0
+394,M,Karauli,48.0
+395,M,Karnal,76.0
+396,M,Katni,53.0
+397,M,Kendujhar,1.0
+398,M,Khandwa,12.0
+399,M,Khargone,274.0
+400,M,Khowai,3.0
+401,M,Khunti,10.0
+402,M,Koderma,111.0
+403,M,Kolar,72.0
+404,M,Kolhapur,69.0
+405,M,Koppal,14.0
+406,M,Korba,1.0
+407,M,Koriya,1.0
+408,M,Kota,29.0
+409,M,Kurukshetra,46.0
+410,M,Latehar,37.0
+411,M,Latur,46.0
+412,M,Lohardaga,52.0
+413,M,Ludhiana,52.0
+414,M,Madhubani,1.0
+415,M,Mahabubnagar,0.0
+416,M,Mahendragarh,93.0
+417,M,Mahoba,3.0
+418,M,Mandla,88.0
+419,M,Mandsaur,5.0
+420,M,Mandya,4.0
+421,M,Mansa,64.0
+422,M,Mau,1.0
+423,M,Meerut,3.0
+424,M,Moga,33.0
+425,M,Morena,157.0
+426,M,Mumbai,74.0
+427,M,Muzaffarpur,1.0
+428,M,Nadia,4.0
+429,M,Nagaur,25.0
+430,M,Nagpur,13.0
+431,M,Nalanda,1.0
+432,M,Nalgonda,5.0
+433,M,Namakkal,1.0
+434,M,Nanded,18.0
+435,M,Nandurbar,1.0
+436,M,Narsinghpur,88.0
+437,M,Nashik,129.0
+438,M,Nawada,0.0
+439,M,Neemuch,1.0
+440,M,North 24 Parganas,2.0
+441,M,North Delhi,0.0
+442,M,North East Delhi,2.0
+443,M,North Tripura,6.0
+444,M,North West Delhi,12.0
+445,M,Osmanabad,41.0
+446,M,Others,2.0
+447,M,Pakur,164.0
+448,M,Palamu,21.0
+449,M,Pali,3.0
+450,M,Palwal,0.0
+451,M,Panipat,231.0
+452,M,Panna,283.0
+453,M,Parbhani,3.0
+454,M,Pathankot,28.0
+455,M,Patna,3.0
+456,M,Pratapgarh,7.0
+457,M,Pune,102.0
+458,M,Puruliya,3.0
+459,M,Raichur,8.0
+460,M,Raigarh,34.0
+461,M,Raisen,74.0
+462,M,Rajgarh,0.0
+463,M,Rajsamand,22.0
+464,M,Ramanagar,80.0
+465,M,Ramgarh,20.0
+466,M,Ranchi,80.0
+467,M,Ratlam,22.0
+468,M,Ratnagiri,1.0
+469,M,Rewa,498.0
+470,M,Rewari,18.0
+471,M,Rohtak,75.0
+472,M,SAS Nagar (Mohali),9.0
+473,M,Sagar,329.0
+474,M,Saharsa,1.0
+475,M,Sahebganj,59.0
+476,M,Samastipur,0.0
+477,M,Sangli,569.0
+478,M,Sangrur,45.0
+479,M,Satara,110.0
+480,M,Satna,392.0
+481,M,Sawai Madhopur,26.0
+482,M,Sehore,53.0
+483,M,Seoni,19.0
+484,M,Sepahijala,1.0
+485,M,Seraikela-Kharsawan,34.0
+486,M,Shahdol,258.0
+487,M,Shaheed Bhagat Singh Nagar,20.0
+488,M,Shajapur,5.0
+489,M,Sheopur,45.0
+490,M,Shimoga,147.0
+491,M,Shivpuri,53.0
+492,M,Shrawasti,1.0
+493,M,Siddharthnagar,1.0
+494,M,Sidhi,216.0
+495,M,Sikar,57.0
+496,M,Simdega,8.0
+497,M,Singrauli,154.0
+498,M,Sirsa,158.0
+499,M,Solapur,80.0
+500,M,Sonbhadra,7.0
+501,M,Sonipat,14.0
+502,M,South Delhi,5.0
+503,M,South Tripura,0.0
+504,M,South West Delhi,4.0
+505,M,Sri Muktsar Sahib,21.0
+506,M,Tarn Taran,125.0
+507,M,Thane,144.0
+508,M,Tikamgarh,265.0
+509,M,Tiruvannamalai,1.0
+510,M,Tonk,49.0
+511,M,Tumkur,1.0
+512,M,Udaipur,16.0
+513,M,Ujjain,66.0
+514,M,Umaria,137.0
+515,M,Una,3.0
+516,M,Valsad,2.0
+517,M,Vellore,0.0
+518,M,Vidisha,84.0
+519,M,Viluppuram,18.0
+520,M,Wardha,1.0
+521,M,Washim,33.0
+522,M,West Delhi,3.0
+523,M,West Singhbhum,227.0
+524,M,West Tripura,24.0
+525,M,Yadgir,12.0
+526,M,Yamuna Nagar,149.0
+527,M,Yavatmal,54.0

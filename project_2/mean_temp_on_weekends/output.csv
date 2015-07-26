@@ -1,0 +1,2 @@
+,avg(cast(meantempi as integer))
+0,65.1111111111
