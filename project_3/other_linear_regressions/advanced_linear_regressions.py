@@ -65,12 +65,16 @@ def predictions(weather_turnstile):
     
     # Handle numerical variables
     features = filtered[num_variables]
+    print "========= Feature vector before normalization: ==========="
+    print features.describe()
     features = normalize(features)
     # Try something with exponents (experimental)
     for i in range(0, len(num_variables)):
         v = num_variables[i]
         for e in range(2, exp_variables[i]+1):
             features[v+"_exp"+str(e)] = features[v]**e    
+    print "========= Feature vector after normalization: ==========="
+    print features.describe()
     
     # Handle categorical values
     for cat_variable in cat_variables:
@@ -78,6 +82,11 @@ def predictions(weather_turnstile):
         # Drop one column because of collinearity
         dummy_feature.drop(dummy_feature.columns[0], axis=1, inplace=True)
         features = features.join(dummy_feature)
+    print "========= Analyzing mean precipitation data: ==========="
+    analysis = pd.DataFrame( {"conds_Rain": features[features["conds_Rain"] == 1.0]["meanprecipi"].describe(), \
+                              "conds_Heavy Rain": features[features["conds_Heavy Rain"] == 1.0]["meanprecipi"].describe(), \
+                              "conds_Light Drizzle": features[features["conds_Light Drizzle"] == 1.0]["meanprecipi"].describe() } )
+    print analysis
 
     # Add constant
     features = sm.add_constant(features)
