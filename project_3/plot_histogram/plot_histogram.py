@@ -26,8 +26,11 @@ def entries_histogram(turnstile_weather):
     '''
     
     plt.figure()
-    histo_norain = turnstile_weather[turnstile_weather['rain']==0]['ENTRIESn_hourly'].hist() # your code here to plot a historgram for hourly entries when it is raining
-    histo_rain   = turnstile_weather[turnstile_weather['rain']==1]['ENTRIESn_hourly'].hist() # your code here to plot a historgram for hourly entries when it is raining
+    binwidth = 1000
+    data_norain  = turnstile_weather[turnstile_weather['rain']==0]['ENTRIESn_hourly']
+    histo_norain = data_norain.hist(bins=range(int(min(data_norain)), int(max(data_norain) + binwidth), int(binwidth))) # your code here to plot a historgram for hourly entries when it is raining
+    data_rain    = turnstile_weather[turnstile_weather['rain']==1]['ENTRIESn_hourly']
+    histo_rain   = data_rain.hist(bins=range(int(min(data_rain)), int(max(data_rain) + binwidth), int(binwidth))) # your code here to plot a historgram for hourly entries when it is raining
     histo_rain.set_xlabel('Hourly Average')
     histo_rain.set_xlim([0,25000])
     histo_rain.set_ylabel('Number of Days')
